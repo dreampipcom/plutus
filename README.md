@@ -1,6 +1,6 @@
 # Plutus - DreamPip's Value Exchange Platform
 
-What: Ethereum Blockchain, DPIP Symbols
+What: Ethereum Blockchain, DPIP Symbols, Crypto Currency
 
 ## Getting Started
 
